@@ -17,7 +17,7 @@ String compareImages(File? file1, File? file2) {
   final decodedImg2 = decoder.decodeImage(bytes2);
 
   if (decodedImg1 == null || decodedImg2 == null) {
-    // return an error message or throw an exception, depending on your use case
+    // return an error message
     return 'One or both images could not be decoded';
   }
 
