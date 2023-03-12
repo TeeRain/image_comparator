@@ -1,4 +1,4 @@
-# image_comporator
+# image_comparator
 
 A new Flutter project.
 
