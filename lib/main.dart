@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:image_comporator/homepage.dart';
+import 'package:image_comparator/homepage.dart';
 
 void main() {
   runApp(const MaterialApp(home: HomePage()));

@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:image_comporator/comparator.dart';
-import 'package:image_comporator/messages/messages.dart';
+import 'package:image_comparator/comparator.dart';
+import 'package:image_comparator/messages/messages.dart';
 import 'package:image_picker/image_picker.dart';
 
 /// A class that contains the state of the application

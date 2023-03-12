@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:image_comporator/messages/messages.dart';
-import 'package:image_comporator/state/image_controller.dart';
-import 'package:image_comporator/widgets/image_holder.dart';
+import 'package:image_comparator/messages/messages.dart';
+import 'package:image_comparator/state/image_controller.dart';
+import 'package:image_comparator/widgets/image_holder.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:image_comporator/messages/messages.dart';
+import 'package:image_comparator/messages/messages.dart';
 
 
 
